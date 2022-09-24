@@ -1,4 +1,4 @@
-# Welcome, I'm Mike Yun. 
+# Welcome, This is Mike Yun. 
 
 <a href="https://www.linkedin.com/in/mkyun/" > 
 <img src="./resources/LinkedIn.png" alt="LinkedIn" width="30px" />
@@ -55,15 +55,15 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" style="filter:invert(100%)" ></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" ></code>
 <br />
 
-* I AM LEARNING : 
+* LEARNING or WILL LEARN : 
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
+<code><img src="https://www.kindpng.com/picc/m/286-2864921_blender-logo-blender-3d-logo-hd-png-download.png" alt="Blender Logo - Blender 3d Logo, HD Png Download@kindpng.com" width="30px" height="27px"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios" style="filter:invert(100%)"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img src="https://www.kindpng.com/picc/m/286-2864921_blender-logo-blender-3d-logo-hd-png-download.png" alt="Blender Logo - Blender 3d Logo, HD Png Download@kindpng.com" width="30px" height="27px"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
 <br />
