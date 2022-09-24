@@ -13,25 +13,37 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mikyyun&show_icons=true&theme=ADD_THEME_HERE" width="800" style="filter:invert(100%)">
 
 ## Introduction
-I am a FullStack Developer and graduated from a FullStack Web Development Bootcamp from Lighthouse Labs. My backgrounds are in Airforce as aa F-16K mechanic, Marine engineering as an engineer for a drilling rig, and Customer Service as a sushi chef.
+I am a FullStack Developer and graduated from a FullStack Web Development Bootcamp from Lighthouse Labs. My backgrounds are in Aircraft mechanic, Marine engineering, and Customer Service.
 
-I decided to career change because developers always have challenges, and solve problems. From my different industry experiences, I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
+I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
-## Ongoing Project
-* I am currently refactoring Lighthouse Town project <br />
+## Current Projects
+* Build app with React & Redux 
+* Build react-create-app from scratch 
+* adding new features or fixing  for Lighthouse Town project
+
+## Deployed Project
+### Lighthouse Town (Coding Buddy)
+<a href="https://main--lighthouse-town.netlify.app/" > 
+LINK
+</a><br />
 <b>Stacks</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
 <b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
 Built with React.js, Socket.IO, React Router and Express Node.js
 
-## Recent Learning
-* HTML and CSS by mimicking mockups or website design inspirations to improve designing and frontend skills <br />
-* Data Structure and Algorithm by reading articles and books to find best solutions <br />
-* React and Redux / Asyncronus / Joining queries or fetch data with Postman
 
+## Challenges
+* Read the '300 JavaScript Interview Mastery Questions Dive Deep into JavaScript Theory, Syntax, and APIs, and Interview with Confidence' and understanding JS fundamental _ FROM Sep 24, 2022
+* 30 Days JS Challenge with https://javascript30.com/ _ FROM Sep 24, 2022
+* Solve leetcode problem at least one in a week _ FROM Sep 24, 2022
+* Read articles and post at least one everyday _ FROM Sep 24, 2022
+* One 3D Model using blender once a week _ FROM Sep 24, 2022
+
+## Reading or Read
+* Reading: JavaScript The Good Parts
 ## Activities
 * Partipated at AWS Builders Program to learn AWS cloud service
-* Attending meetups and tech events in virtual or local<br />
-
+* Attending meetups and tech events in virtual or local
 ## My Skills
 * I HAVE : 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
