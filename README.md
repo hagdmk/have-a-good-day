@@ -22,6 +22,11 @@ I love math, data visualization, hand on tools, and failing to get successful re
 * Build react-create-app from scratch 
 * adding new features or fixing  for Lighthouse Town project
 
+## Next Project
+* Title and link: TrackMember & https://github.com/mikyYun/TrackMember	        					   	  
+* About: Track and share location with members and alert them in case of not safe situation
+* Stacks: TypeScript, React, Google Map, SMS, Email APIs, and MongoDB
+
 ## Deployed Project
 ### Lighthouse Town (Coding Buddy)
 <a href="https://main--lighthouse-town.netlify.app/" > 
