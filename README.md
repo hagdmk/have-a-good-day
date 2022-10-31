@@ -18,6 +18,7 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
 ## Projects
+* Refactoring `ThisIsMikeYun` with DB and posting features
 * adding new features or fixing  for Lighthouse Town project
 * front_end_projects with vanilla JavaScript: Zoo, SEO
 * ~~Build react-create-app from scratch~~ v0.0.5 in testing
@@ -41,15 +42,16 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 
 ## Challenges
 * ~~Read the '300 JavaScript Interview Mastery Questions Dive Deep into JavaScript Theory, Syntax, and APIs, and Interview with Confidence' and understanding JS fundamental~~ _ FROM Sep 24, 2022 TO Oct 20, 2022
-* 30 Days JS Challenge with https://javascript30.com/ _ FROM Sep 24, 2022
+* ~~30 Days JS Challenge with https://javascript30.com/~~ _ FROM Sep 24, 2022 TO Oct 22
 * Solve leetcode problem at least one in a week _ FROM Sep 24, 2022
 * Read articles and post at least one everyday _ FROM Sep 24, 2022
 
 
 ## Reading or Read
 * Reading1: ~~JavaScript The Good Parts~~
-* Reading2: 
-## Activities
+* Reading2: Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
+## Activities and Educations
+* ITD College _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Partipated at AWS Builders Program to learn AWS cloud service
 * Attending meetups and tech events in virtual or local
 * E-commerce workshop: Scalable E-commerce Service(React, Spring, NoSQL) FROM Datastax
