@@ -27,6 +27,9 @@ I love math, data visualization, hand on tools, and failing to get successful re
 * ~~Fine-dust: fetch fine-dust data from public portal API, React and Redux~~
 
 ## Next Project
+* Update ThisIsMikeYun
+
+Then...
 * Title and link: TrackMember & https://github.com/mikyYun/TrackMember	        					   	  
 * About: Provide geographic information using map API, authenticate with NodeMailer, and share with friends
 * Stacks: React, NodeJS, NodeMailer, Maps API and MongoDB
