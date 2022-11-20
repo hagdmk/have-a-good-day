@@ -20,18 +20,19 @@ I love math, data visualization, hand on tools, and failing to get successful re
 ## Projects
 * Refactoring `ThisIsMikeYun` with DB and posting features
 * adding new features or fixing  for Lighthouse Town project
-* front_end_projects with vanilla JavaScript: Zoo, SEO
+* ~~chatWithAI~~
+* ~~front_end_projects with vanilla JavaScript: Zoo, SEO~~
 * ~~Build react-create-app from scratch~~ v0.0.5 in testing
 * ~~Build app with React & Redux ~~
 * ~~Fine-dust: fetch fine-dust data from public portal API, React and Redux~~
 
 ## Next Project
 * Title and link: TrackMember & https://github.com/mikyYun/TrackMember	        					   	  
-* About: Track and share location with members and alert them in case of not safe situation
+* About: Provide geographic information using map API, authenticate with NodeMailer, and share with friends
 * Stacks: React, NodeJS, NodeMailer, Maps API and MongoDB
 
 ## Deployed Project
-### Lighthouse Town (Coding Buddy)
+### <b>Lighthouse Town (Coding Buddy)</b>
 <a href="https://main--lighthouse-town.netlify.app/" > 
 LINK
 </a><br />
@@ -39,16 +40,22 @@ LINK
 <b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
 Built with React.js, Socket.IO, React Router and Express Node.js
 
+### <b>ChatWithAI</b>
+ <a href="https://chatwithai.netlify.app/" > 
+LINK
+</a><br />
+<b>Stacks</b>: NodeJS, Express, ReactJS, OpenAI, JavaScript <br />
+<b>Details</b>: Mini Chatting service with AI - General conversation with AI. To improve accurancy, store history and provide chat history to AI.
 
 ## Challenges
 * ~~Read the '300 JavaScript Interview Mastery Questions Dive Deep into JavaScript Theory, Syntax, and APIs, and Interview with Confidence' and understanding JS fundamental~~ _ FROM Sep 24, 2022 TO Oct 20, 2022
-* ~~30 Days JS Challenge with https://javascript30.com/~~ _ FROM Sep 24, 2022 TO Oct 22
+* ~~30 Days JS Challenge with javascript30~~ _ FROM Sep 24, 2022 TO Oct 22
 * Solve leetcode problem at least one in a week _ FROM Sep 24, 2022
-* Read articles and post at least one everyday _ FROM Sep 24, 2022
+* Read articles and post _ FROM Sep 24, 2022
 
 
 ## Reading or Read
-* Reading1: ~~JavaScript The Good Parts~~
+* ~~Reading1: JavaScript The Good Parts~~
 * Reading2: Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
 ## Activities and Educations
 * ITD College _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
@@ -56,6 +63,7 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 * Attending meetups and tech events in virtual or local
 * E-commerce workshop: Scalable E-commerce Service(React, Spring, NoSQL) FROM Datastax
 * Attended Building JavaScript apps with Astra DB  
+* Lighthouse Labs _ FullStack Web Development Bootcamp_ FROM Apr, 2022 TO Jun, 2022
 ## My Skills
 * I HAVE : 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
