@@ -18,8 +18,9 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
 ## Projects
-* Refactoring `ThisIsMikeYun` with DB and posting features
 * adding new features or fixing  for Lighthouse Town project
+* ~~Build a server to connect with multiple projects~~
+* ~~Refactoring `ThisIsMikeYun` with DB and posting features~~
 * ~~chatWithAI~~
 * ~~front_end_projects with vanilla JavaScript: Zoo, SEO~~
 * ~~Build react-create-app from scratch~~ v0.0.5 in testing
@@ -27,40 +28,43 @@ I love math, data visualization, hand on tools, and failing to get successful re
 * ~~Fine-dust: fetch fine-dust data from public portal API, React and Redux~~
 
 ## Next Project
-* Update ThisIsMikeYun
+~~* Title and link: TrackMember & https://github.com/mikyYun/TrackMember~~
 
-Then...
-* Title and link: TrackMember & https://github.com/mikyYun/TrackMember	        					   	  
-* About: Provide geographic information using map API, authenticate with NodeMailer, and share with friends
-* Stacks: React, NodeJS, NodeMailer, Maps API and MongoDB
+~~* About: Provide geographic information using map API, authenticate with NodeMailer, and share with friends~~
+
+~~* Stacks: React, NodeJS, NodeMailer, Maps API and MongoDB~~
 
 ## Deployed Project
-### <b>Lighthouse Town (Coding Buddy)</b>
-<a href="https://main--lighthouse-town.netlify.app/" > 
-LINK
-</a><br />
+
+### <a href="javascript:void()"><b> mkServer </b></a>
+<b>Stacks</b>: NodeJS, Express, PG, Socket.IO<br/>
+<b>Details</b>: Server using postgres to be connected with multiple projects (thisismikeyun, lighthouseTown, chatWithAI) by handling different api path
+
+### <a href="https://www.thisismikeyun.com/" >  <b>ThisIsMikeYun</b> </a><br />
 <b>Stacks</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
 <b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
 Built with React.js, Socket.IO, React Router and Express Node.js
 
-### <b>ChatWithAI</b>
- <a href="https://chatwithai.netlify.app/" > 
-LINK
-</a><br />
+
+### <a href="https://main--lighthouse-town.netlify.app/" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
+<b>Stacks</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
+<b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
+Built with React.js, Socket.IO, React Router and Express Node.js
+
+### <a href="https://chatwithai.netlify.app/" > <b>ChatWithAI</b></a><br />
 <b>Stacks</b>: NodeJS, Express, ReactJS, OpenAI, JavaScript <br />
 <b>Details</b>: Mini Chatting service with AI - General conversation with AI. To improve accurancy, store history and provide chat history to AI.
 
 ## Challenges
 * ~~Read the '300 JavaScript Interview Mastery Questions Dive Deep into JavaScript Theory, Syntax, and APIs, and Interview with Confidence' and understanding JS fundamental~~ _ FROM Sep 24, 2022 TO Oct 20, 2022
 * ~~30 Days JS Challenge with javascript30~~ _ FROM Sep 24, 2022 TO Oct 22
-* Solve leetcode problem at least one in a week _ FROM Sep 24, 2022
-* Read articles and post _ FROM Sep 24, 2022
 
 
 ## Reading or Read
 * ~~Reading1: JavaScript The Good Parts~~
 * Reading2: Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
 ## Activities and Educations
+* Java_Spring _ Java and Spring course FROM Dec, 2022 TO May, 2023
 * ITD College _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Partipated at AWS Builders Program to learn AWS cloud service
 * Attending meetups and tech events in virtual or local
