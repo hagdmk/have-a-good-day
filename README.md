@@ -18,21 +18,16 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
 ## Projects
-* adding new features or fixing  for Lighthouse Town project
+* RideWithMe
 * ~~Build a server to connect with multiple projects~~
 * ~~Refactoring `ThisIsMikeYun` with DB and posting features~~
 * ~~chatWithAI~~
 * ~~front_end_projects with vanilla JavaScript: Zoo, SEO~~
-* ~~Build react-create-app from scratch~~ v0.0.5 in testing
-* ~~Build app with React & Redux ~~
+* ~~Build react-create-app from scratch v0.0.5 in testing~~
+
+* ~~Build app with React & Redux~~
 * ~~Fine-dust: fetch fine-dust data from public portal API, React and Redux~~
 
-## Next Project
-~~* Title and link: TrackMember & https://github.com/mikyYun/TrackMember~~
-
-~~* About: Provide geographic information using map API, authenticate with NodeMailer, and share with friends~~
-
-~~* Stacks: React, NodeJS, NodeMailer, Maps API and MongoDB~~
 
 ## Deployed Project
 
@@ -72,7 +67,8 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 * Attended Building JavaScript apps with Astra DB  
 * Lighthouse Labs _ FullStack Web Development Bootcamp_ FROM Apr, 2022 TO Jun, 2022
 ## My Skills
-* I HAVE : 
+* Skills and Learning : 
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -83,9 +79,6 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" ></code>
-<br />
-
-* LEARNING or WILL LEARN : 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
 <code><img src="https://www.kindpng.com/picc/m/286-2864921_blender-logo-blender-3d-logo-hd-png-download.png" alt="Blender Logo - Blender 3d Logo, HD Png Download@kindpng.com" width="30px" height="27px"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
