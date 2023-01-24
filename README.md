@@ -18,7 +18,7 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
 ## Projects
-* RideWithMe
+* Undefined..
 * ~~Build a server to connect with multiple projects~~
 * ~~Refactoring `ThisIsMikeYun` with DB and posting features~~
 * ~~chatWithAI~~
@@ -37,8 +37,10 @@ I love math, data visualization, hand on tools, and failing to get successful re
 
 ### <a href="https://www.thisismikeyun.com/" >  <b>ThisIsMikeYun</b> </a><br />
 <b>Stacks</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
-<b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
-Built with React.js, Socket.IO, React Router and Express Node.js
+<b>Details</b>: Portfolio webpage about Mike Yun
+
+* Implemented lazy-loading for posting lists with fs by reading text lists from inside post directory
+* Merged multiple servers from other projects in one to handle api requests in different end point
 
 
 ### <a href="https://main--lighthouse-town.netlify.app/" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
