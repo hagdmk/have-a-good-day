@@ -17,30 +17,36 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
+
 ## Projects
-* Undefined..
-* ~~Build a server to connect with multiple projects~~
-* ~~Refactoring `ThisIsMikeYun` with DB and posting features~~
-* ~~chatWithAI~~
-* ~~front_end_projects with vanilla JavaScript: Zoo, SEO~~
-* ~~Build react-create-app from scratch v0.0.5 in testing~~
 
-* ~~Build app with React & Redux~~
-* ~~Fine-dust: fetch fine-dust data from public portal API, React and Redux~~
+### <a href="https://github.com/mikyYun/apps" >  <b>Playce</b> </a><br />
+<b>Stacks</b>: React, Expo, React-native <br />
+<b>Details</b>: Provide opportunities for users to create their own activity plans and participate in meetups with others who share similar interests.  
+
+### <a href="javascript:void()" >  <b>Withux</b> </a><br />
+<b>Stacks</b>: NextJS, MongoDB <br />
+<b>Details</b>: Create design & development principles to reduce conflict between designers, developers, testers, marketers, and end-users.
 
 
-## Deployed Project
+### <a href="https://github.com/mikyYun/apps" >  <b>Mobile Applications</b> </a><br />
+<b>Stacks</b>: React, Expo, React-native <br />
+<b>Details</b>: Practice application development(Android, IOS) 
+
+
+### <a href="javascript:void()" >  <b>Report Analysis</b> </a><br />
+<b>Stacks</b>: Python, MS Azure, AI <br />
+<b>Details</b>: AI-based embed report analysis automation program
+
 
 ### <a href="javascript:void()"><b> mkServer </b></a>
 <b>Stacks</b>: NodeJS, Express, PG, Socket.IO<br/>
 <b>Details</b>: Server using postgres to be connected with multiple projects (thisismikeyun, lighthouseTown, chatWithAI) by handling different api path
 
 ### <a href="https://www.thisismikeyun.com/" >  <b>ThisIsMikeYun</b> </a><br />
-<b>Stacks</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
-<b>Details</b>: Portfolio webpage about Mike Yun
+<b>Stacks</b>: NextJS, NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
+<b>Details</b>: Portfolio web application about Mike Yun
 
-* Implemented lazy-loading for posting lists with fs by reading text lists from inside post directory
-* Merged multiple servers from other projects in one to handle api requests in different end point
 
 
 ### <a href="https://main--lighthouse-town.netlify.app/" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
@@ -52,17 +58,11 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <b>Stacks</b>: NodeJS, Express, ReactJS, OpenAI, JavaScript <br />
 <b>Details</b>: Mini Chatting service with AI - General conversation with AI. To improve accurancy, store history and provide chat history to AI.
 
-## Challenges
-* ~~Read the '300 JavaScript Interview Mastery Questions Dive Deep into JavaScript Theory, Syntax, and APIs, and Interview with Confidence' and understanding JS fundamental~~ _ FROM Sep 24, 2022 TO Oct 20, 2022
-* ~~30 Days JS Challenge with javascript30~~ _ FROM Sep 24, 2022 TO Oct 22
 
 
-## Reading or Read
-* ~~Reading1: JavaScript The Good Parts~~
-* Reading2: Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
 ## Activities and Educations
+* ITD Canada _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Java_Spring _ Java and Spring course FROM Dec, 2022 TO May, 2023
-* ITD College _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Partipated at AWS Builders Program to learn AWS cloud service
 * Attending meetups and tech events in virtual or local
 * E-commerce workshop: Scalable E-commerce Service(React, Spring, NoSQL) FROM Datastax
@@ -75,6 +75,8 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" style="filter:invert(100%)"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
