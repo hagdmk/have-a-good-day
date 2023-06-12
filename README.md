@@ -17,7 +17,9 @@ I am a FullStack Developer and graduated from a FullStack Web Development Bootca
 
 I love math, data visualization, hand on tools, and failing to get successful results. I also like working in a team but am independently motivated as well.
 
+## Experience
 
+IT Programmer Intern at CEC Mining Systems from May 2023 to June 2023
 ## Projects
 
 ### <a href="https://github.com/mikyYun/apps" >  <b>Playce</b> </a><br />
