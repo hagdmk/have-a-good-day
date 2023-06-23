@@ -10,7 +10,7 @@
 <img src="./resources/resume.png" alt="ThisIsMikeYun"  width="25px" style="filter:invert(100%)"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mikyyun&show_icons=true&theme=ADD_THEME_HERE" width="800" style="filter:invert(100%)">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mikyyun&show_icons=true&theme=ADD_THEME_HERE" width="800" style="filter:invert(100%)"> -->
 
 ## Introduction
 I am a FullStack Developer and graduated from a FullStack Web Development Bootcamp from Lighthouse Labs. My backgrounds are in Aircraft mechanic, Marine engineering, and Customer Service.
@@ -19,8 +19,14 @@ I love math, data visualization, hand on tools, and failing to get successful re
 
 ## Experience
 
-IT Programmer Intern at CEC Mining Systems from May 2023 to June 2023
+<b>IT Programmer Intern</b> at CEC Mining Systems from May 2023 to June 2023
+
+<b>FullStack Developer</b> as a Freelance from June 2022
 ## Projects
+
+### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Playce</b> </a><br />
+<b>Stacks</b>: React, Next.js, Tailwind <br />
+<b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
 
 ### <a href="https://github.com/mikyYun/apps" >  <b>Playce</b> </a><br />
 <b>Stacks</b>: React, Expo, React-native <br />
@@ -36,8 +42,8 @@ IT Programmer Intern at CEC Mining Systems from May 2023 to June 2023
 <b>Details</b>: Practice application development(Android, IOS) 
 
 
-### <a href="javascript:void()" >  <b>Report Analysis</b> </a><br />
-<b>Stacks</b>: Python, MS Azure, AI <br />
+### <a href="javascript:void()" >  <b>Document Analysis</b> </a><br />
+<b>Stacks</b>: Python, AI, openCV, MS Azure Custom Vision <br />
 <b>Details</b>: AI-based embed report analysis automation program
 
 
@@ -70,26 +76,3 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 * E-commerce workshop: Scalable E-commerce Service(React, Spring, NoSQL) FROM Datastax
 * Attended Building JavaScript apps with Astra DB  
 * Lighthouse Labs _ FullStack Web Development Bootcamp_ FROM Apr, 2022 TO Jun, 2022
-## My Skills
-* Skills and Learning : 
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" style="filter:invert(100%)"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" ></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"></code>
-<code><img src="https://www.kindpng.com/picc/m/286-2864921_blender-logo-blender-3d-logo-hd-png-download.png" alt="Blender Logo - Blender 3d Logo, HD Png Download@kindpng.com" width="30px" height="27px"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<br />
