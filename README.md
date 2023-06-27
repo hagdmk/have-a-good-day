@@ -24,11 +24,11 @@ I love math, data visualization, hand on tools, and failing to get successful re
 <b>FullStack Developer</b> as a Freelance from June 2022
 ## Projects
 
-### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Playce</b> </a><br />
+### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Car Showcase</b> </a><br />
 <b>Stacks</b>: React, Next.js, Tailwind <br />
 <b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
 
-### <a href="https://github.com/mikyYun/apps" >  <b>Playce</b> </a><br />
+### <a href="javascript:void()" >  <b>Playce</b> </a><br />
 <b>Stacks</b>: React, Expo, React-native <br />
 <b>Details</b>: Provide opportunities for users to create their own activity plans and participate in meetups with others who share similar interests.  
 
