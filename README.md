@@ -66,8 +66,21 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <b>Stacks</b>: NodeJS, Express, ReactJS, OpenAI, JavaScript <br />
 <b>Details</b>: Mini Chatting service with AI - General conversation with AI. To improve accurancy, store history and provide chat history to AI.
 
+### <a href="https://github.com/mikyYun/jungle_rails" > <b>Jungle_Rails</b></a><br />
+<b>Stacks</b>: Ruby on Rails, Webpack, Cypress <br />
+<b>Details</b>: A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+### <a href="https://github.com/mikyYun/scheduler" > <b>Scheduler</b></a><br />
+<b>Stacks</b>: React, Cypress, Storybook, Axios, Jest, Lodash  <br />
+<b>Details</b>: Interviewer Scheduler is a react based program for make, update, delete appointment
 
+### <a href="https://github.com/mikyYun/QuizApp" > <b>Quiz App</b></a><br />
+<b>Stacks</b>: SASS, PostgreSQL, Express, Chalk  <br />
+<b>Details</b>: The first team project. Solve, create unique, share quiz.
+
+### <a href="https://github.com/mikyYun/QuizApp" > <b>LightBNB</b></a><br />
+<b>Stacks</b>: Bcrypt, Express, PostgreSQL, SASS  <br />
+<b>Details</b>: LightBNB manages properties for property rentals by owner and travelers can search places, check details, and book place for their trip.
 ## Activities and Educations
 * ITD Canada _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Java_Spring _ Java and Spring course FROM Dec, 2022 TO May, 2023
