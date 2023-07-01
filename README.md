@@ -19,23 +19,26 @@ I love math, data visualization, hand on tools, and failing to get successful re
 
 ## Experience
 
-<b>IT Programmer Intern</b> at CEC Mining Systems from May 2023 to June 2023
+<b>IT Programmer Intern</b> at CEC Mining Systems from May 2023 to July 2023
 
 <b>FullStack Developer</b> as a Freelance from June 2022
 ## Projects
 
-### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Car Showcase</b> </a><br />
-<b>Stacks</b>: React, Next.js, Tailwind <br />
-<b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
+### <a href="javascript:void()" >  <b>PDF Summarizer automation (ongoing)</b> </a><br />
+<b>Stacks</b>: Python, MS Custom Vision, OpenCV, ChatGPT API<br />
+<b>Details</b>: AI-based report analysis automation tool.  
 
-### <a href="javascript:void()" >  <b>Playce</b> </a><br />
+### <a href="javascript:void()" >  <b>Playce(ongoing)</b> </a><br />
 <b>Stacks</b>: React, Expo, React-native <br />
 <b>Details</b>: Provide opportunities for users to create their own activity plans and participate in meetups with others who share similar interests.  
 
-### <a href="javascript:void()" >  <b>Withux</b> </a><br />
+### <a href="javascript:void()" >  <b>Withux(ongoing)</b> </a><br />
 <b>Stacks</b>: NextJS, MongoDB <br />
 <b>Details</b>: Create design & development principles to reduce conflict between designers, developers, testers, marketers, and end-users.
 
+### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Car Showcase</b> </a><br />
+<b>Stacks</b>: React, Next.js, Tailwind <br />
+<b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
 
 ### <a href="https://github.com/mikyYun/apps" >  <b>Mobile Applications</b> </a><br />
 <b>Stacks</b>: React, Expo, React-native <br />
