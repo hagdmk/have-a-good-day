@@ -44,12 +44,6 @@ I love math, data visualization, hand on tools, and failing to get successful re
 <b>Stacks</b>: React, Expo, React-native <br />
 <b>Details</b>: Practice application development(Android, IOS) 
 
-
-### <a href="javascript:void()" >  <b>Document Analysis</b> </a><br />
-<b>Stacks</b>: Python, AI, openCV, MS Azure Custom Vision <br />
-<b>Details</b>: AI-based embed report analysis automation program
-
-
 ### <a href="javascript:void()"><b> mkServer </b></a>
 <b>Stacks</b>: NodeJS, Express, PG, Socket.IO<br/>
 <b>Details</b>: Server using postgres to be connected with multiple projects (thisismikeyun, lighthouseTown, chatWithAI) by handling different api path
@@ -65,7 +59,7 @@ I love math, data visualization, hand on tools, and failing to get successful re
 <b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
 Built with React.js, Socket.IO, React Router and Express Node.js
 
-### <a href="https://chatwithai.netlify.app/" > <b>ChatWithAI</b></a><br />
+### <a href="https://github.com/mikyYun/aichat" > <b>ChatWithAI</b></a><br />
 <b>Stacks</b>: NodeJS, Express, ReactJS, OpenAI, JavaScript <br />
 <b>Details</b>: Mini Chatting service with AI - General conversation with AI. To improve accurancy, store history and provide chat history to AI.
 
@@ -84,6 +78,10 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 ### <a href="https://github.com/mikyYun/QuizApp" > <b>LightBNB</b></a><br />
 <b>Stacks</b>: Bcrypt, Express, PostgreSQL, SASS  <br />
 <b>Details</b>: LightBNB manages properties for property rentals by owner and travelers can search places, check details, and book place for their trip.
+
+### <a href="https://github.com/mikyYun/SPA_js" > <b>Single Page Web App</b></a><br />
+<b>Stacks</b>: HTML, CSS, Bootstrap, JavaScript, jQuery<br />
+<b>Details</b>: Single page web application with jQuery including item stock management
 ## Activities and Educations
 * ITD Canada _ IT General Pragramming Diplma_ FROM Oct, 2022 TO July, 2023
 * Java_Spring _ Java and Spring course FROM Dec, 2022 TO May, 2023
