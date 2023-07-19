@@ -65,11 +65,13 @@ Effective communication, Problem-Solving, adaptability, Time Management, Attenti
 <b>Skills</b>: NodeJS, Express, PG, Socket.IO<br/>
 <b>Details</b>: Server using postgres to be connected with multiple projects (thisismikeyun, lighthouseTown, chatWithAI) by handling different api path
 
+### <a href="https://schedulermk.netlify.app/" > <b>Scheduler</b></a><br />
+<b>Skills</b>: React, Cypress, Storybook, Axios, Jest, Lodash  <br />
+<b>Details</b>: Interviewer Scheduler is a react based program for make, update, delete appointment
+
 ### <a href="https://www.thisismikeyun.com/" >  <b>ThisIsMikeYun</b> </a><br />
 <b>Skills</b>: NextJS, NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
 <b>Details</b>: Portfolio web application about Mike Yun
-
-
 
 ### <a href="https://main--lighthouse-town.netlify.app/" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
 <b>Skills</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
@@ -84,9 +86,6 @@ Built with React.js, Socket.IO, React Router and Express Node.js
 <b>Skills</b>: Ruby on Rails, Webpack, Cypress <br />
 <b>Details</b>: A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
-### <a href="https://github.com/mikyYun/scheduler" > <b>Scheduler</b></a><br />
-<b>Skills</b>: React, Cypress, Storybook, Axios, Jest, Lodash  <br />
-<b>Details</b>: Interviewer Scheduler is a react based program for make, update, delete appointment
 
 ### <a href="https://github.com/mikyYun/QuizApp" > <b>Quiz App</b></a><br />
 <b>Skills</b>: SASS, PostgreSQL, Express, Chalk  <br />
