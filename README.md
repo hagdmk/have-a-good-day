@@ -47,6 +47,12 @@ Effective communication, Problem-Solving, adaptability, Time Management, Attenti
 <b>Skills</b>: Python, MS Custom Vision, OpenCV, ChatGPT API<br />
 <b>Details</b>: AI-based report analysis automation tool.  
 
+### <a href="https://github.com/mikyYun/-flutter-ChatApp" >  <b>ChatApp</b> </a><br />
+<b>Skills</b>: Flutter, Dart, Firebase, Firestore<br />
+<b>Details</b>: This application allows users to have real-time conversations, authenticate themselves securely, and share images. The user interface is built using Flutter, a cross-platform framework, while Firebase provides the backend services, including real-time database management, user authentication, and file storage. 
+
+
+
 ### <a href="https://nextjs-car-showcase-3frcd45xg-mikyyun.vercel.app/" >  <b>Car Showcase</b> </a><br />
 <b>Skills</b>: React, Next.js, Tailwind <br />
 <b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
