@@ -13,7 +13,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mikyyun&show_icons=true&theme=ADD_THEME_HERE" width="800" style="filter:invert(100%)"> -->
 
 ## Introduction
-FullStack Developer with experience of developing web/mobile applications and AI automation solution. Demonstrated proficiency; proficient in frontend development such as <i>`HTML5`</i>, <i>`CSS3`</i>, <i>`SASS/SCSS`</i>, <i>`Javascript`</i>, etc, backend development using <i>`NodeJS`</i>, <i>`ExpressJS`</i>, <i>`Python`</i>, <i>`AWS`</i>, <i?>`C#`</i> etc.
+FullStack Developer with experience of developing web/mobile applications and AI automation solution. Demonstrated proficiency; proficient in frontend development such as <i>`HTML5`</i>, <i>`CSS3`</i>, <i>`SASS/SCSS`</i>, <i>`Javascript`</i>, etc, backend development using <i>`NodeJS`</i>, <i>`ExpressJS`</i>, <i>`Python`</i>, <i>`AWS`</i>, <i>`C#`</i> etc.
 
 Highly skilled in <i>`communication`</i> with  clients and team based on previous careers such as IT Programmer, Airforce, Engineering, and Customer Service. Familiar with <i>`Agile/Scrum`</i> software tools such as <i>`Jira`</i>, <i>`Slack`</i>, etc. Enthusiastic to learn new trends and technology and apply those with better UI/UX. 
 
