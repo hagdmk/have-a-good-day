@@ -3,12 +3,6 @@
 <a href="https://www.linkedin.com/in/mkyun/" > 
 <img src="./resources/LinkedIn.png" alt="LinkedIn" width="30px" />
 </a>
-<a href="https://www.thisismikeyun.com/" > 
-<img src="./resources/WWW.png" alt="ThisIsMikeYun"  width="25px" style="filter:invert(100%)"/>
-</a>
-<a href="https://github.com/mikyYun/Resume/blob/master/RESUME/RESUME_Mike_Yun.pdf" > 
-<img src="./resources/resume.png" alt="ThisIsMikeYun"  width="25px" style="filter:invert(100%)"/>
-</a>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mikyyun&show_icons=true&theme=ADD_THEME_HERE" width="800" style="filter:invert(100%)"> -->
 
@@ -19,6 +13,7 @@ Highly skilled in <i>`communication`</i> with  clients and team based on previou
 
 ## Experience
 
+<b>FullStack Shopify Developer</b> at Bigtent Outdoors Ltd _<i> From Sep 2023 To Current </i>
 
 <b>FullStack Developer</b> as a Freelance _<i> From June 2022 To Current </i>
 
@@ -26,13 +21,21 @@ Highly skilled in <i>`communication`</i> with  clients and team based on previou
 
 ## Skills
 #### TECHNICAL SKILLS
-HTML5, CSS3, JavaScript, SASS/SCSS, Typescript, jQuery, ReactJS, ExpressJS, NodeJS, NextJS, AJAX, AXIOS, RESTful API, PSQL, Dart, Flutter, MySQL, GraphQL, MongoDB, Firebase, AWS, Azure, Flask, Python, Java, C, C++, C#, Azure, Custom Vision, AI, Spring, OpenCV, Jest, Cypress, Storybook, Mocha/Chai, Git, Version Control, etc.
+HTML5, CSS3, JavaScript, SASS/SCSS, Typescript, jQuery, ReactJS, ExpressJS, NodeJS, NextJS, Shopify, AJAX, AXIOS, RESTful API, PSQL, Dart, Flutter, MySQL, GraphQL, MongoDB, Firebase, AWS, Azure, Flask, Python, Java, C, C++, C#, Azure, Custom Vision, AI, Spring, OpenCV, Jest, Cypress, Storybook, Mocha/Chai, Git, Version Control, etc.
 
 #### SOFT SKILLS
 Effective communication, Problem-Solving, adaptability, Time Management, Attention to Detail, Creativity, Teamwork, Analytical Thinking, Continuous Learning, Adaptability, etc.
 
 
 ## Projects
+
+### <a href="javascript:void()" >  <b>Private custom shopify app development</b> </a><br />
+<b>Skills</b>: Shopify, GraphQL, REST API, React, WebSocket <br />
+<b>Details</b>: Develop fully customized & private shopify app to cover necessary features for BTO store  
+
+### <a href="javascript:void()" >  <b>ATE(ongoing)</b> </a><br />
+<b>Skills</b>: React, Expo, React-native, NestJS, TypeScript, GraphQL, IOS <br />
+<b>Details</b>: IOS application development team project to make dietary sustainability simpler and more accessible 🥦 
 
 
 ### <a href="javascript:void()" >  <b>Playce(ongoing)</b> </a><br />
@@ -43,13 +46,9 @@ Effective communication, Problem-Solving, adaptability, Time Management, Attenti
 <b>Skills</b>: NextJS, MongoDB <br />
 <b>Details</b>: Create design & development principles to reduce conflict between designers, developers, testers, marketers, and end-users.
 
-### <a href="https://github.com/mikyYun/BeatItUp" >  <b>Beat It Up</b> </a><br />
-<b>Skills</b>: React, Canvas API, OffscreenCanvas API, Socket.io, NodeJS,  Audio context, Youtube-audio-stream.<br />
-<b>Details</b>: This project inspired from retro game 'PUMP(Pump It Up / Beat It up)'. Key APIs are Offscreen canvas, Audio context, Youtube-audio-stream. 
-
 ### <a href="javascript:void()" >  <b>AI-based PDF Summarizer automation</b> </a><br />
 <b>Skills</b>: Python, MS Custom Vision, OpenCV, ChatGPT API<br />
-<b>Details</b>: AI-based report analysis automation tool development in CEC Mining Systems as IT Programmer Intern.  
+<b>Details</b>: AI-based report analysis automation tool.  
 
 ### <a href="https://github.com/mikyYun/-flutter-ChatApp" >  <b>ChatApp</b> </a><br />
 <b>Skills</b>: Flutter, Dart, Firebase, Firestore<br />
@@ -61,7 +60,7 @@ Effective communication, Problem-Solving, adaptability, Time Management, Attenti
 <b>Skills</b>: React, Next.js, Tailwind <br />
 <b>Details</b>: Car showcase application for learning purpose. Next.js, SSR, Advanced Search Functionality, Filtering Capabilities, Optimize SEO, Custom filter.
 
-### <a href="https://github.com/mikyYun/apps" >  <b>Mobile Applications</b> </a><br />
+### <a href="https://github.com/mikyYun/apps" >  <b>Weather app with RN</b> </a><br />
 <b>Skills</b>: React, Expo, React-native <br />
 <b>Details</b>: Practice application development(Android, IOS) 
 
@@ -77,7 +76,7 @@ Effective communication, Problem-Solving, adaptability, Time Management, Attenti
 <b>Skills</b>: NextJS, NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
 <b>Details</b>: Portfolio web application about Mike Yun
 
-### <a href="https://main--lighthouse-town.netlify.app/" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
+### <a href="https://github.com/mikyYun/lighthouse_town" >  <b>Lighthouse Town (Coding Buddy)</b> </a><br />
 <b>Skills</b>: NodeJS, Express, ReactJS, PostgreSQL, JavaScript <br />
 <b>Details</b>: A Retro gaming inspired online chatting app - focused on bringing developers and collaborators together.
 Built with React.js, Socket.IO, React Router and Express Node.js
