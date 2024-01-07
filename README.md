@@ -39,7 +39,7 @@ Shopify, Jira, Notion, Figma, Github
 ### <b>ATE(ongoing)</b><br />
 <b>Skills</b>: React, Expo, React-native, NestJS, TypeScript, GraphQL, IOS <br />
 <b>Details</b>: IOS application development team project to make dietary sustainability simpler and more accessible 🥦 
-
+  * Create Core Components to help shorten FE development time by carefully reviewing, discussing with team members so that components are reusable and cover the most common cases. 
 
 ### <b>Playce(ongoing)</b><br />
 <b>Skills</b>: React, Expo, React-native <br />
